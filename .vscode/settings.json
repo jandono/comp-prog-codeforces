@@ -68,6 +68,11 @@
         "tuple": "cpp",
         "typeindex": "cpp",
         "typeinfo": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "list": "cpp",
+        "array": "cpp",
+        "bit": "cpp",
+        "complex": "cpp",
+        "strstream": "cpp"
     }
 }
